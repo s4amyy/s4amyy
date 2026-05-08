@@ -1,16 +1,30 @@
-## Hi there 👋
+# Olá! Eu sou a Samy
+🎓 Estudante de Análise e Desenvolvimento de Sistemas
+💻 Focada em Desenvolvimento Back-end
+📚 Atualmente estudando Java, Python e MySQL 
+🚀 Em busca de oportunidade de estágio em TI
 
-<!--
-**s4amyy/s4amyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🛠 Tecnologias e Ferramentas
+- Java
+- Python
+- MySQL
+- Shell Script
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📚 Atualmente
+- Desenvolvendo projetos para fortalecer minhas habilidades práticas
+- Aprimorando conhecimentos em back-end e banco de dados
+- Organizando meu portfólio no GitHub
+
+---
+
+## 🎯 Objetivos
+Busco evoluir constantemente na área de tecnologia, desenvolvendo experiência prática e contribuindo em projetos que fortaleçam minhas habilidades como desenvolvedora back-end.
+
+---
+
+## 📫 Contato
+- LinkedIn: www.linkedin.com/in/samyra-rodrigues/
